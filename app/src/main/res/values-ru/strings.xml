@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GIF Viewer</string>
+
+    <string-array name="gif_tab_array">
+        <item>Рандомные</item>
+        <item>Горячее</item>
+        <item>Топ</item>
+        <item>Последние</item>
+    </string-array>
+
+    <string name="main_toolBar_title">Developers Life</string>
+
+    <string name="error_repeat">Повторить</string>
+    <string name="error_info">Произошла ошибка при загрузке данных. Проверьте подключение к сети.</string>
+</resources>

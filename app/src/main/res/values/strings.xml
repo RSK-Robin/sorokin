@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GIF Viewer</string>
+
+    <string-array name="gif_tab_array">
+        <item>Random</item>
+        <item>Hotter</item>
+        <item>Top</item>
+        <item>Latest</item>
+    </string-array>
+
+    <string name="main_toolBar_title">Developers Life</string>
+
+    <string name="error_repeat">Repeat</string>
+    <string name="error_info">An error occurred while loading the data. Check your network connection.</string>
+</resources>

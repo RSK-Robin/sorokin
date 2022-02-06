@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="fragment_page_horizontal_margin">20dp</dimen>
+    <dimen name="fragment_page_vertical_margin">20dp</dimen>
+
+    <dimen name="page_card_corner_radius">16dp</dimen>
+
+    <dimen name="toolbar_startInset">0dp</dimen>
+
+</resources>

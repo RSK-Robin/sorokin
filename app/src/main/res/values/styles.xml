@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ActionBarStyle" parent="ThemeOverlay.MaterialComponents.ActionBar">
+        <item name="background">@color/primary</item>
+        <item name="contentInsetStart">@dimen/toolbar_startInset</item>
+    </style>
+
+    <!-- FloatingButton Style -->
+    <style name="FloatingActionButtonStyle" parent="Widget.MaterialComponents.FloatingActionButton">
+        <item name="tint">@color/floatingButtonIconTint</item>
+        <item name="fabCustomSize">48dp</item>
+        <item name="maxImageSize">36dp</item>
+        <item name="elevation">5dp</item>
+        <item name="backgroundTint">@color/floatingButtonBackgroundTint</item>
+    </style>
+
+    <!-- TabLayout Style -->
+    <style name="TabLayoutStyle" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIndicatorColor">@color/secondary</item>
+        <item name="tabSelectedTextColor">@color/secondary</item>
+    </style>
+
+</resources>
